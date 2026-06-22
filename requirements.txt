@@ -1,0 +1,12 @@
+pydub
+ipykernel
+langchain-groq 
+langchain
+python-dotenv
+langchain_text_splitters
+fastapi 
+uvicorn 
+jinja2 
+python-multipart
+fastapi
+fastapi[standard]
